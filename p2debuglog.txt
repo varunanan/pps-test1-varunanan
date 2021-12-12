@@ -1,0 +1,8 @@
+
+ gcc -g p2final.c
+ ./a.out
+enter a number
+50
+enter a number
+50
+50 + 50 is 100
