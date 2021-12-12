@@ -1,1 +1,3 @@
- 
+ gcc -g p0final.c
+ ./a.out
+Varun
