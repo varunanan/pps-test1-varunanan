@@ -1,1 +1,6 @@
-
+ gcc -g p10final.c
+ ./a.out
+enter two numbers
+6
+4
+6 + 4 = 10
