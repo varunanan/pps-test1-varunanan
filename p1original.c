@@ -1,14 +1,10 @@
 #include<stdio.h>
-int main() 
+int main()
 {
-  char name[10];
-  printf("enter your name\n");
-  scanf("%s",name);
-  printf("my name is %s",name);
+  int a,b,c;
+  printf("Enter two numbers\n");
+  scanf("%d%d",&a,&b);
+  c=a+b;
+  printf("%d + %d is %d\n",a,b,c);
   return 0;
 }
-
-
-
-
-
